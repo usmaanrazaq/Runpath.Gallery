@@ -1,0 +1,4 @@
+C:\code\TT\Runpath.Gallery\Runpath.Gallery.Services\bin\Debug\netstandard2.0\Runpath.Gallery.Dto.dll
+C:\code\TT\Runpath.Gallery\Runpath.Gallery.Services\obj\Debug\netstandard2.0\Runpath.Gallery.Services.csprojAssemblyReference.cache
+C:\code\TT\Runpath.Gallery\Runpath.Gallery.Services\obj\Debug\netstandard2.0\Runpath.Gallery.Services.AssemblyInfoInputs.cache
+C:\code\TT\Runpath.Gallery\Runpath.Gallery.Services\obj\Debug\netstandard2.0\Runpath.Gallery.Services.AssemblyInfo.cs
