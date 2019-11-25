@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {}
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {}
   },
   "projects": {
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
+        "projectUniqueName": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
         "projectName": "Runpath.Gallery.Domain",
-        "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
+        "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
         "packagesPath": "C:\\Users\\urazaq\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\obj\\",
+        "outputPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
