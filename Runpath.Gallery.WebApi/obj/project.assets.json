@@ -8178,11 +8178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.WebApi\\Runpath.Gallery.WebApi.csproj",
+      "projectUniqueName": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.WebApi\\Runpath.Gallery.WebApi.csproj",
       "projectName": "Runpath.Gallery.WebApi",
-      "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.WebApi\\Runpath.Gallery.WebApi.csproj",
+      "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.WebApi\\Runpath.Gallery.WebApi.csproj",
       "packagesPath": "C:\\Users\\urazaq\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.WebApi\\obj\\",
+      "outputPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8202,11 +8202,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
-              "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj"
+            "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
+              "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj"
             },
-            "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {
-              "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj"
+            "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {
+              "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj"
             }
           }
         }

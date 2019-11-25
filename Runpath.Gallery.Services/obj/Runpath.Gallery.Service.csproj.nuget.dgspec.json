@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {}
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {}
   },
   "projects": {
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
+        "projectUniqueName": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
         "projectName": "Runpath.Gallery.Domain",
-        "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
+        "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj",
         "packagesPath": "C:\\Users\\urazaq\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\obj\\",
+        "outputPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj": {
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj",
+        "projectUniqueName": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj",
         "projectName": "Runpath.Gallery.Dto",
-        "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj",
+        "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj",
         "packagesPath": "C:\\Users\\urazaq\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\obj\\",
+        "outputPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {
+    "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj",
+        "projectUniqueName": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj",
         "projectName": "Runpath.Gallery.Service",
-        "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj",
+        "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\Runpath.Gallery.Service.csproj",
         "packagesPath": "C:\\Users\\urazaq\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Services\\obj\\",
+        "outputPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -149,11 +149,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
-                "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj"
+              "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj": {
+                "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Domain\\Runpath.Gallery.Domain.csproj"
               },
-              "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj": {
-                "projectPath": "C:\\code\\TT\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj"
+              "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj": {
+                "projectPath": "C:\\code\\Runpath.Gallery\\Runpath.Gallery.Dto\\Runpath.Gallery.Dto.csproj"
               }
             }
           }
