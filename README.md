@@ -1,6 +1,6 @@
 # Runpath.Gallery
 
-##.netcore 3.0
+## .netcore 3.0
 
 Endpoints:
 
