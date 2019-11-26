@@ -2,7 +2,7 @@
 
 ## .netcore 3.0
 
-Endpoints:
+### Endpoints:
 
 /api/gallery - Retrieves all albums and photos
 
